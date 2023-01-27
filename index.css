@@ -1,7 +1,10 @@
-body {
-    
+@font-face {
+    font-family: 'UniSans';
+    src: url('Uni Sans Heavy.otf')
+}.body {
     background-color: #000030;
 }
 .main-text {
-    color: #ffffff;
+    font-family: 'UniSans';
+    color: white;
 }
