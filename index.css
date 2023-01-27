@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'UniSans';
-    src: url('Uni Sans Heavy.otf')
+    src: url('Uni Sans Heavy.otf');
 }.body {
     background-color: #000030;
 }
